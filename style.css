@@ -1,0 +1,9 @@
+
+
+div {
+  width: 100%;
+  height: auto;
+  background-image: ('ladak.jpg');
+  background-size: cover;
+  border: 1px solid black;
+}
